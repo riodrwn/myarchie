@@ -4,15 +4,15 @@ title: riodrwn
 description: CVE-archives
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: @riodrwn
+  username: #username
   card: summary
-  creator: @riodrwn
+  creator: #username
 author:
-  twitter: @riodrwn
-  name: @riodrwn
+  twitter: #username
+  name: #username
   avatar:
-  email: riodrwn@zerobyte.id
-  url: riodrwn.github.io
+  email: #username
+  url: #username
 permalink: pretty
 
 baseurl: "https://riodrwn.github.io/myarchie/"
