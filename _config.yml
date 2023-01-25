@@ -1,21 +1,21 @@
-site: Asko
-url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+site: CVE-archives
+url: riodrwn.github.io
+title: riodrwn
+description: CVE-archives
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: @riodrwn
   card: summary
-  creator: #yourusername
+  creator: @riodrwn
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: @riodrwn
+  name: @riodrwn
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: riodrwn@zerobyte.id
+  url: riodrwn.github.io
 permalink: pretty
 
-baseurl: ""
+baseurl: "riodrwn.github.io"
 
 highlighter: rouge
 
